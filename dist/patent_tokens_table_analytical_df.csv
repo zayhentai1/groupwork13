@@ -1,0 +1,11 @@
+token_d1980,nrp100_d1980,type_1980,token_d2010,nrp100_d2010,type_2010,token_d1990,nrp100_d1990,type_1990,token_d2000,nrp100_d2000,type_2000
+have,2.575760027,consolidating,use,5.865870965,consolidating,have,3.57,consolidating,have,4.84,consolidating
+contain,2.077434595,consolidating,have,4.025963393,consolidating,use,2.35,consolidating,use,4.83,consolidating
+produce,2.003009368,disruptive,form,2.429405771,neutral,contain,2.07,consolidating,form,2.13,neutral
+make,1.939909719,disruptive,base,2.280666642,consolidating,produce,2.04,disruptive,produce,1.94,disruptive
+use,1.473943081,consolidating,manufacture,1.914504567,disruptive,make,1.92,disruptive,make,1.81,disruptive
+prepare,1.19242157,disruptive,control,1.644772752,consolidating,control,1.42,consolidating,control,1.61,consolidating
+control,1.142265439,consolidating,produce,1.535151559,disruptive,form,1.41,neutral,contain,1.52,consolidating
+form,1.001504684,neutral,provide,1.356391689,consolidating,prepare,1.07,disruptive,manufacture,1.28,disruptive
+mean,0.944876794,neutral,include,1.35366253,consolidating,manufacture,0.82,disruptive,base,1.25,consolidating
+measure,0.634232369,consolidating,make,1.135784724,disruptive,measure,0.75,consolidating,include,0.99,consolidating

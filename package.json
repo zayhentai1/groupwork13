@@ -1,0 +1,27 @@
+{
+  "name": "groupwork1",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "@vueuse/core": "^10.1.2",
+    "d3": "^7.8.4",
+    "intersection-observer": "^0.12.2",
+    "scrollama": "^3.2.0",
+    "vue": "^2.7.7",
+    "vue-katex": "^0.5.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-legacy": "^2.0.0",
+    "@vitejs/plugin-vue2": "^1.1.2",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.24",
+    "terser": "^5.14.2",
+    "vite": "^3.0.2",
+    "vite-plugin-windicss": "^1.9.0",
+    "windicss": "^3.5.6"
+  }
+}
